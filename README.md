@@ -14,6 +14,6 @@ This workshop is designed for the complete R beginner. It provides:
 
 -   an introduction to data manipulation and data visualization
 
-To access the workshop materials (the two sample data sets and the code file), click the big green Code button above and select "Download ZIP." Once you have R and RStudio downloaded, open the `near.Rproj` file and you'll be all set!
+To access the workshop materials (the two sample data sets and the code file), click the big green Code button above and select "Download ZIP." Once you have R and RStudio downloaded, open the `neair.Rproj` file and you'll be all set!
 
-A PDF version of the workshop slides is included in the download, and the original HTML version of the slides is available [here]([https://meghan.rbind.io/slides/neair/](https://meghan.rbind.io/slides/boston_user/hall_boston_user_2022#1)).
+A PDF version of the workshop slides is included in the download, and the original HTML version of the slides is available [here](https://meghan.rbind.io/slides/neair/neair.html#/title-slide).
